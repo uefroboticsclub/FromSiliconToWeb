@@ -1,12 +1,18 @@
 ## from the silicon to the web
 
+> brain rot starts when - you watch insta reels, yt shorts..sleep less..dont't do stuff..start writing js..and you are beyond saving once you are addicted to ts and 'any - but grows back when you write C
+
+> what you need is a terminal and text editor to lock in and cook
+
+![20240808_221354](https://github.com/user-attachments/assets/03bdde88-62d3-499a-a971-e44fc9bcbf82)
+
 Hiring is hard, a lot of modern CS education is really bad, and it's hard to find people who understand the modern computer stack from first principles.
 
 This project is about fun and learning. It is about the journey, NOT THE DESTINATION. Enjoy yourself. If you aren't, take a break and try something entirely different.
 
 Perhaps this project is what you've been thinking about. Moving past academic exercises, this is computing and why does it suck so bad?
 
-Let's proceed thoughtfully and make informed decisions. Can we code in languages that are less prone to bugs? i.e., avoid Python and C, think OCaml, Haskell, and Rust. Things worth learning, not trash you'll rapidily code followed by days of debugging. We're crafting the entire stack, we have choices.
+Let's proceed thoughtfully and make informed decisions. Can we code in languages that are less prone to bugs? i.e., avoid Python and C, think OCaml, Haskell, and Rust or even ZIG!!. Things worth learning, not trash you'll rapidily code followed by days of debugging. We're crafting the entire stack, we have choices.
 
 What's changed is there's tons of compute available for compilation. Self-hosting is explicitly not a goal. Compilers should engage more in "search" and "model" processes, rather than mere "translation".
 
