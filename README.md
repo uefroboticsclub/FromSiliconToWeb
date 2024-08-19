@@ -1,6 +1,6 @@
 ## from the silicon to the web
 
-> brain rot starts when - you watch insta reels, yt shorts..sleep less..dont't do stuff..start writing js..and you are beyond saving once you are addicted to ts and 'any - but grows back when you write C
+> brain rot starts when - you watch insta reels, yt shorts..sleep less..dont't do stuff..start writing js..and you are beyond saving once you are addicted to ts and 'any' - but grows back when you write C
 
 > what you need is a terminal and text editor to lock in and cook
 
